@@ -5,3 +5,7 @@ html,
 main {
   font-family: "Lato", sans-serif;
 }
+
+main {
+  min-height: 100vh;
+}
